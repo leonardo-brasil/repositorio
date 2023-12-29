@@ -1,0 +1,7 @@
+Criando uma lista;
+
+1 - Arroz;
+2 - Feijão;
+3 - Batata;
+4 - Quiabo;
+5 - Abacate;
